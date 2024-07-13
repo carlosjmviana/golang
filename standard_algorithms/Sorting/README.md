@@ -1,3 +1,3 @@
-# Standard Algorithms 
+# Standard Algorithms
 
-* [Searching Algorithms](./Searching/README.md)
+- [BubbleSort Algorithm](./BubbleSort/README.md)
